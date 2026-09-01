@@ -1,0 +1,6 @@
+{
+  "name": "ZestBite - Food Delivery & Restaurant",
+  "description": "Interactive food delivery application featuring attractive banners, categorized menus, customizable items, cart & checkout, order tracking, user accounts, reviews, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
